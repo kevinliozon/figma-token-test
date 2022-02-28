@@ -1,13 +1,19 @@
 {
-  "Primary": {
-    "test": {
-      "value": "#b21414",
+  "global": {
+    "Primary": {
+      "value": "#222222",
       "type": "color"
     }
   },
-  "global": {
-    "test": {
-      "value": "#630e0e",
+  "moonpig": {
+    "Primary": {
+      "value": "#CE3356",
+      "type": "color"
+    }
+  },
+  "greetz": {
+    "Primary": {
+      "value": "#13b5ea",
       "type": "color"
     }
   }
