@@ -1,6 +1,14 @@
 {
   "Primary": {
-    "value": "#bbb",
-    "type": "color"
+    "test": {
+      "value": "#b21414",
+      "type": "color"
+    }
+  },
+  "global": {
+    "test": {
+      "value": "#630e0e",
+      "type": "color"
+    }
   }
 }
